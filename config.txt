@@ -1,0 +1,12 @@
+-- Criar projeto
+npx create-expo-app@latest galloDelivery
+
+-- Limpando o template
+cd galloDelivery
+npm run reset-project       pressionar N
+
+-- Criar uma pasta constants
+-- Criar um arquivo Colors.ts na pasta constants
+
+-- Criar uma pasta components
+-- Criar um arquivo CustomHeader.tsx e *** executar rnfs
